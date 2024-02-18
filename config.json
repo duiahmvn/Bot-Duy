@@ -13,12 +13,12 @@
     "commandDisabled": [],
     "eventDisabled": [],
     "autoClean": true,
-    "BOTNAME": "TNT",
-    "AMDIN_NAME": "TNTXTRICK",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/tntxtrick",
+    "BOTNAME": "Bot Xinh Gái của Duy",
+    "AMDIN_NAME": "DUIAHMVN",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=61550726037530",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100090168070553",
+        "61550726037530",
         ""
     ],
     "NDH": [],
